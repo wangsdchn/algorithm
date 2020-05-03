@@ -1,1 +1,2 @@
-cd ./build && cmake .. && make
+path=`pwd`
+cd ${path} && cmake .. && make

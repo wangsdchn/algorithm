@@ -1,0 +1,1 @@
+cd /Users/didi/Algorithm/build && cmake .. && make
